@@ -1,0 +1,7 @@
+city_id, name, continent, Surface_Area, population, capital, country_id
+1,Cairo,Africa,34Km,100000,True,1
+2,Alexandria,Africa,33Km,230000,False,1
+3,Sharm,Africa,32Km,200000,False,1
+4,Qalyubia,Africa,334Km,340000,False,1
+5,Giza,Africa,56Km,560000,False,1
+6,New York,US,45km,5000000,True,2
